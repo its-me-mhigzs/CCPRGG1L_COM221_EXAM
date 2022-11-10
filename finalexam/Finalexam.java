@@ -26,7 +26,7 @@ public class FinalExam {
         System.out.println(" ");
         System.out.println("1. BANANAQUE ");
 
-        for (int row = 0; row < 15; row++) {
+        for (int row = 0; row < 4; row++) {
             System.out.println("");
             for (int column = 0; column < 9; column++) {
                 if (row == 2) {
